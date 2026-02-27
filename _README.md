@@ -1,4 +1,4 @@
-# ![email_gateway](pages/public/img/logo.png) jqgrid_utils
+# ![jqgrid_utils](pages/public/img/logo.png) jqgrid_utils
 
 **Convenient Utility Functions for Free jqGrid**
 
